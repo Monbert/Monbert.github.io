@@ -18,7 +18,7 @@ const brand = 'KAIZEN'
 
 const work = [
 	{
-		name: 'RBC Challenges',
+		name: 'RBC Challenges ',
 		description: ' A prototype of customer feedback analysis for RBC. The project includes twitter data collection, sentiment analysis and PHP front-page display.',
 		stack: [
 			{ icon: icon.SiPython, name: 'Python' },
