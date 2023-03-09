@@ -26,6 +26,9 @@ const Nav = () => {
 			</div>
 			<div className='Nav-menu' data-show={menu} onClick={(e) => handleMenu(e)}>
 				<div className='Nav-menu-wrapper'>
+					<a className='Nav-link' href='src/resume/resume.pdf' onClick={() => setMenu(false)}>
+						Resume.
+					</a>
 					<a className='Nav-link' href='#work' onClick={() => setMenu(false)}>
 						Work.
 					</a>
