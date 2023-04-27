@@ -26,7 +26,7 @@ const Nav = () => {
 			</div>
 			<div className='Nav-menu' data-show={menu} onClick={(e) => handleMenu(e)}>
 				<div className='Nav-menu-wrapper'>
-					<a className='Nav-link' href='./resume/resume.pdf' target="_blank" rel="noopener noreferrer" onClick={() => setMenu(false)}>
+					<a className='Nav-link' href='https://drive.google.com/file/d/1Nii60lFiW0vr5KY2PgdWz0YJ2dZJ3k5z/view?usp=sharing' target="_blank" rel="noopener noreferrer" onClick={() => setMenu(false)}>
 						Resume.
 					</a>
 					<a className='Nav-link' href='#work' onClick={() => setMenu(false)}>

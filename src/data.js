@@ -2,7 +2,7 @@ import * as icon from 'react-icons/si'
 
 const profile = {
 	name: 'Kai Xia',
-	role: 'Full Stack Developer',
+	role: 'Software Developer',
 	description: 'Your curiosity leads you here to know more about me, let\'s find out !',
 };
 
